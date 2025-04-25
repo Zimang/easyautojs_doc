@@ -6,7 +6,7 @@
       {
         "id": "987af323e07d5c99",
         "type": "tabs",
-        "dimension": 12.649164677804295,
+        "dimension": 31.861575178997615,
         "children": [
           {
             "id": "74a84001dd27cd05",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "99408d29dcbfd5aa",
+        "id": "d9a9691a4f8cb0e7",
         "type": "tabs",
-        "dimension": 87.3508353221957,
+        "dimension": 68.13842482100239,
         "children": [
           {
-            "id": "395a9ac10d466f9a",
+            "id": "2470a770ee66735b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "Excalidraw/Drawing 2025-03-22 13.09.08.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "Drawing 2025-03-22 13.09.08.excalidraw 的大纲"
             }
           },
           {
@@ -200,26 +200,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "395a9ac10d466f9a",
+  "active": "b0bd1e9933440428",
   "lastOpenFiles": [
-    "EasyAutoJS.md",
+    "Excalidraw/Drawing 2025-04-25 15.27.07.excalidraw.md",
     "Excalidraw/Drawing 2025-03-22 13.09.08.excalidraw.md",
+    "EasyAutoJS.md",
+    "autojs.apk",
+    "base.apk",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libhiai.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libBugly-ext.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libjpeg.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libmlkit_google_ocr_pipeline.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libjackpal-termexec2.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libleptonica.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libopencv_java4.so",
+    "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libpaddle_light_api_shared.so",
+    "assests/Pasted Image 20250425180407_703.png",
     "assests/Pasted image 20250425162511.png",
     "assests/crop_1745561465549.png",
     "assests/img_1745561455953.png",
     "assests/crop_1745561859083.png",
     "assests/Pasted image 20250425152734.png",
-    "assests",
     "Excalidraw/Drawing 2025-04-25 15.27.08.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-25 15.27.07.excalidraw.md",
     "TODO_4_16.md",
     "Pasted Image 20250322132726_952.png",
     "Pasted Image 20250322132640_848.png",
     "Pasted Image 20250322132255_599.png",
     "Pasted Image 20250322131956_439.png",
     "TODO_4_14.md",
-    "欢迎.md",
-    "Pasted Image 20250322132359_722.png",
-    "Excalidraw"
+    "欢迎.md"
   ]
 }
