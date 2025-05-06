@@ -6,10 +6,10 @@
       {
         "id": "987af323e07d5c99",
         "type": "tabs",
-        "dimension": 31.861575178997615,
+        "dimension": 37.26012793176972,
         "children": [
           {
-            "id": "74a84001dd27cd05",
+            "id": "2470a770ee66735b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,12 +25,12 @@
         ]
       },
       {
-        "id": "d9a9691a4f8cb0e7",
+        "id": "46b79d8b2b94b7a8",
         "type": "tabs",
-        "dimension": 68.13842482100239,
+        "dimension": 62.73987206823028,
         "children": [
           {
-            "id": "2470a770ee66735b",
+            "id": "2a6f7ad720bd75ca",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -61,7 +61,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -200,11 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0bd1e9933440428",
+  "active": "2a6f7ad720bd75ca",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-04-25 15.27.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-06 10.05.24.excalidraw.md",
     "Excalidraw/Drawing 2025-03-22 13.09.08.excalidraw.md",
     "EasyAutoJS.md",
+    "assests/Pasted Image 20250429175805_172.png",
+    "Excalidraw/Drawing 2025-04-25 15.27.07.excalidraw.md",
     "autojs.apk",
     "base.apk",
     "org.autojs.autoxjs.v6-3_jwzeCuhEXrqs5EC2Tr6A==/lib/arm/libhiai.so",
@@ -226,7 +228,6 @@
     "Pasted Image 20250322132726_952.png",
     "Pasted Image 20250322132640_848.png",
     "Pasted Image 20250322132255_599.png",
-    "Pasted Image 20250322131956_439.png",
     "TODO_4_14.md",
     "欢迎.md"
   ]
